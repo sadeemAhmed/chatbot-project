@@ -1,4 +1,4 @@
-# task4: Chatbot Project
+# task4: Chatbot Project 💬
 
 This project is a simple command-line chatbot application using OpenAI's GPT-3.5-turbo model. It allows users to interact with a chatbot through a terminal, providing responses based on user input. The application can be run in testing mode using a mock response or with the real OpenAI API.
 
