@@ -69,14 +69,11 @@ The application can operate in two modes:
     - Type your queries at the prompt.
     - Type `exit` to end the conversation.
 
-3. **Testing Mode**:
-    - Set the environment variable `USE_MOCK` to `"true"` to use the mock response:
-      ```sh
-      export USE_MOCK=true  # On Windows use `set USE_MOCK=true`
-      ```
+
 
 ## File Structure 🏗️
-chatbot-project/
+chatbot-project
+
 │
 ├── main.py
 ├── API_KEY
