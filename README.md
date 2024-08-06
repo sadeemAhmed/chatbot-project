@@ -79,11 +79,6 @@ The application can operate in two modes:
 ## File Structure 🏗️
 chatbot-project
 
-│
-├── main.py
-├── API_KEY
-├── README.md
-
 
 - `main.py`: The main script containing the chatbot logic.
 - `API_KEY`: A file containing your OpenAI API key.
