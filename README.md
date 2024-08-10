@@ -13,7 +13,7 @@ This project is a simple command-line chatbot application using OpenAI's GPT-3.5
 - [Features](#features)
 
 ## Project Description 📝
-
+The Chatbot Project provides an interactive command-line interface where users can engage in a conversation with a chatbot powered by OpenAI's GPT-3.5-turbo model. Users can type their queries, and the chatbot responds with relevant answers.
 
 
 The application can operate in two modes:
